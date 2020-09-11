@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>LAB-1</OutputName>
+          <OutputName>lab-1</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -386,27 +386,27 @@
             <File>
               <FileName>core_cm3_constant.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\core_cm3_constant.s</FilePath>
+              <FilePath>..\core_cm3_constant.s</FilePath>
             </File>
             <File>
               <FileName>MSP432xx_constants.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\MSP432xx_constants.s</FilePath>
+              <FilePath>..\MSP432xx_constants.s</FilePath>
             </File>
             <File>
               <FileName>MSP432xx_tim_constants.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\MSP432xx_tim_constants.s</FilePath>
+              <FilePath>..\MSP432xx_tim_constants.s</FilePath>
             </File>
             <File>
               <FileName>startup_MSP432xx_md.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\startup_MSP432xx_md.s</FilePath>
+              <FilePath>..\startup_MSP432xx_md.s</FilePath>
             </File>
             <File>
-              <FileName>ADDITION.s</FileName>
+              <FileName>addition.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\ADDITION.s</FilePath>
+              <FilePath>.\addition.s</FilePath>
             </File>
           </Files>
         </Group>

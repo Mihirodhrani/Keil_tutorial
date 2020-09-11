@@ -145,7 +145,7 @@
       <DebugFlag>
         <trace>0</trace>
         <periodic>1</periodic>
-        <aLwin>0</aLwin>
+        <aLwin>1</aLwin>
         <aCover>0</aCover>
         <aSer1>0</aSer1>
         <aSer2>0</aSer2>
@@ -204,7 +204,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\core_cm3_constant.s</PathWithFileName>
+      <PathWithFileName>..\core_cm3_constant.s</PathWithFileName>
       <FilenameWithoutPath>core_cm3_constant.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -216,7 +216,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\MSP432xx_constants.s</PathWithFileName>
+      <PathWithFileName>..\MSP432xx_constants.s</PathWithFileName>
       <FilenameWithoutPath>MSP432xx_constants.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -228,7 +228,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\MSP432xx_tim_constants.s</PathWithFileName>
+      <PathWithFileName>..\MSP432xx_tim_constants.s</PathWithFileName>
       <FilenameWithoutPath>MSP432xx_tim_constants.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -240,7 +240,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\startup_MSP432xx_md.s</PathWithFileName>
+      <PathWithFileName>..\startup_MSP432xx_md.s</PathWithFileName>
       <FilenameWithoutPath>startup_MSP432xx_md.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -252,8 +252,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\ADDITION.s</PathWithFileName>
-      <FilenameWithoutPath>ADDITION.s</FilenameWithoutPath>
+      <PathWithFileName>.\addition.s</PathWithFileName>
+      <FilenameWithoutPath>addition.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
